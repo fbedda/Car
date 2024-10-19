@@ -6,7 +6,7 @@ Bienvenue sur GIT
 il s'agit d'un paragraphe 
 
 '''
-
+Bonjout tout le monde
 if (num=10) {
 
 console.log (num)
